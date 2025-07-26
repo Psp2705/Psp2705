@@ -39,9 +39,17 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ## 📈 GitHub Stats
 
-![Prachiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachitiparab&show_icons=true&theme=tokyonight)
+### 🔥 Contribution Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prachitiparab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachitiparab&layout=compact&theme=tokyonight)
+### 📊 GitHub Activity & Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachitiparab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachitiparab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -53,4 +61,4 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my projects and collaborate._ 😊
+_Thanks for visiting my profile! Feel free to explore my projects and connect._ 😊
