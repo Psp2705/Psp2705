@@ -30,19 +30,19 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ## 💼 Current Projects
 
-- 🧠 **Insurance Literacy Coach Agent** – GenAI-powered multilingual agent for policy understanding & comparison  
-- ✅ **SyncBoard** – Real-time task management app using FastAPI, MongoDB, and WebSockets  
-- 🎵 **Music Popularity Predictor** – ML model for predicting hit Marathi songs based on audio + lyrics  
-- 📧 **Voice-based Email System** – Speech + Face login enabled email app for visually impaired users
+-  **Insurance Literacy Coach Agent** – GenAI-powered multilingual agent for policy understanding & comparison  
+-  **SyncBoard** – Real-time task management app using FastAPI, MongoDB, and WebSockets  
+-  **Music Popularity Predictor** – ML model for predicting hit Marathi songs based on audio + lyrics  
+-  **Voice-based Email System** – Speech + Face login enabled email app for visually impaired users
 
 ---
 
 
 ## 📫 Let's Connect!
 
-- ✉️ Email: prachitiparab03@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/prachitiparab](https://linkedin.com/in/prachitiparab)
-- 🧠 Portfolio: *Coming Soon*
+-  Email: prachitiparab03@gmail.com  
+-  LinkedIn: [linkedin.com/in/prachitiparab](https://linkedin.com/in/prachitiparab)
+-  Portfolio: *Coming Soon*
 
 ---
 
