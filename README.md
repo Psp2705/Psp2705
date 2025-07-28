@@ -40,7 +40,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 
 ## 📫 Let's Connect!
 
--  Email: prachitiparab03@gmail.com  
+-  Email: prachitiparab275@gmail.com  
 -  LinkedIn: [linkedin.com/in/prachitiparab](https://linkedin.com/in/prachitiparab)
 -  Portfolio: *Coming Soon*
 
